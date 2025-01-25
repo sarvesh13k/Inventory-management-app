@@ -1,9 +1,11 @@
 Inventory Management System
+
 A modern, responsive inventory management system built with Next.js and TypeScript. This application provides a robust solution for tracking and managing inventory items across different categories with a beautiful dark-themed interface.
 
 Inventory Management System
 
 Features
+
 🌙 Beautiful dark theme interface
 📦 Real-time inventory tracking
 🔍 Advanced filtering by categories
@@ -17,6 +19,7 @@ Features
 
 
 Technologies Used
+
 Frontend Framework: Next.js 14
 Language: TypeScript
 Styling: Tailwind CSS
@@ -27,6 +30,7 @@ Storage: Local Storage
 
 
 Getting Started
+
 Prerequisites
 Node.js 18.17 or later
 npm or yarn package manager
