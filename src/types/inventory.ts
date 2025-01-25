@@ -7,7 +7,7 @@ export interface Item {
     createdAt: string
   }
   
-  export type Category = "sports" | "clothes" | "watches" | "mobiles"
+  export type Category = "sports" | "clothes" | "watches" | "mobiles" 
   
   export interface FilterState {
     categories: Category[]

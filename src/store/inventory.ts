@@ -2,7 +2,7 @@
 
 import { create } from "zustand"
 import { persist } from "zustand/middleware"
-import { Category, type Item } from "@/types/inventory"
+import { type Item } from "@/types/inventory"
 
 interface InventoryState {
   items: Item[]
